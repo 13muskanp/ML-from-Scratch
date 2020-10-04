@@ -1,0 +1,15 @@
+Temp,Humidity,Windy,Cloudy,Weather
+Hot,High,Low,Yes,Rainy
+Hot,High,High,No,Rainy
+Hot,High,Low,Yes,Overcast
+Mild,High,Low,No,Sunny
+Cool,Normal,Low,No,Sunny
+Cool,Normal,High,Yes,Sunny
+Cool,Normal,High,No,Overcast
+Mild,High,Low,Yes,Rainy
+Cool,Normal,Low,Yes,Rainy
+Mild,Normal,Low,No,Sunny
+Mild,Normal,High,No,Rainy
+Mild,High,High,No,Overcast
+Hot,Normal,Low,Yes,Overcast
+Mild,High,High,No,Sunny
